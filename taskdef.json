@@ -10,7 +10,7 @@
           }
         ],
 
-        "image": "<IMAGE1_NAME>",
+        "image": "imageDetail.json",
         "essential": true,
         "name": "Container-app-python"
       }
